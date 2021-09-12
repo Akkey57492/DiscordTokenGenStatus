@@ -4,7 +4,7 @@
 3つのapi(discord / 2captcha / onlinesim)を利用してアカウントを生成するものです。
 
 # Status
-- [ ] 開発ステータス
+- [x] 開発ステータス
 ## 事前調べ
 - [x] Discord API
 - [x] 2captcha
