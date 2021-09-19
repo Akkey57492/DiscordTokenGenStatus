@@ -4,16 +4,18 @@
 3つのapi(discord / 2captcha / onlinesim)を利用してアカウントを生成するものです。
 
 # Status
-- [x] 開発ステータス
+- [ ] 開発ステータス
 ## 事前調べ
 - [x] Discord API
 - [x] 2captcha
 - [x] onlinesim
 - [x] onlinesim API 
+- [ ] Mail API
 ## APIテスト
 - [x] Discord API
 - [x] 2captcha
 - [x] onlinesim
+- [ ] Mail API
 ## 開発度
 - [x] Token取得
 - [ ] Proxy実装
@@ -26,8 +28,8 @@
 - [x] Token取得
 - [x] 電話番号認証実装の試み
 - [x] 電話番号認証実装
-- [x] メール認証実装の試み
+- [ ] メール認証実装の試み
 - [ ] メール認証実装
 ## 開発パーセンテージ
 - Max: 100%
-- Sync: 55%
+- Sync: 50%
